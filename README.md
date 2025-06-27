@@ -19,7 +19,7 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 
 ![Statistics]
 
-## Featured Project 💻
+## About Project 💻
 
 ### [Improvements-Water-Sources](https://drive.google.com/drive/folders/1KLjzrGp8sixfZahrr1DoyGt92E5QH2NQ?usp=drive_link)
 
