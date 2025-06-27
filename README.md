@@ -23,8 +23,7 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 
 ### [Improvements-Water-Sources](https://drive.google.com/drive/folders/1KLjzrGp8sixfZahrr1DoyGt92E5QH2NQ?usp=drive_link)
 
-[Improvements-Water-Sources] The project involves extracting, cleaning, and visualizing sales data to provide meaningful insights that help businesses optimize revenue, inventory management, and customer experience. The dataset includes transaction details such as order volume, sales revenue, customer demographics, and product categories. This project demonstrates my ability to use Excel effectively.
-
+[Improvements-Water-Sources] This project aims to improving the water sources in an african country which is Maji Ndogo, using SQL. It has analyzed the infrastruction of the water sources and treated them so that the populations have efficient access.. This project demonstrates my ability to use MySQL effectively.
 
 ## Get in Touch 📬
 - **[Phone Number]**(20 1201991890)
